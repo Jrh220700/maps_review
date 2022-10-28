@@ -7,3 +7,6 @@ data/
 .ipython/
 .jupyter/
 .local/
+
+
+*.pkl
