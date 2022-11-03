@@ -8,5 +8,6 @@ data/
 .jupyter/
 .local/
 
-
-*.pkl
+code/
+.pkl
+.npy
